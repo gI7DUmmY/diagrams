@@ -1,0 +1,197 @@
+<mxfile host="app.diagrams.net" modified="2023-11-30T12:41:47.688Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="UX9cp5Rsb4BsazIc1lGm" version="22.1.5" type="github">
+  <diagram name="Page-1" id="LkRhmX5udIgWVVvKP2tT">
+    <mxGraphModel dx="1543" dy="1097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-1" value="BUT 2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="354" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="s7MB-vvQS7g_MF5XI4Nz-4" target="s7MB-vvQS7g_MF5XI4Nz-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="s7MB-vvQS7g_MF5XI4Nz-4" target="s7MB-vvQS7g_MF5XI4Nz-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-4" value="DRC" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="30" y="120" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="s7MB-vvQS7g_MF5XI4Nz-5" target="s7MB-vvQS7g_MF5XI4Nz-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="s7MB-vvQS7g_MF5XI4Nz-5" target="s7MB-vvQS7g_MF5XI4Nz-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-5" value="DRC&lt;br&gt;Alternants" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="30" y="280" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="s7MB-vvQS7g_MF5XI4Nz-8" target="s7MB-vvQS7g_MF5XI4Nz-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="s7MB-vvQS7g_MF5XI4Nz-8" target="s7MB-vvQS7g_MF5XI4Nz-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-8" value="MPV" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="30" y="560" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="s7MB-vvQS7g_MF5XI4Nz-9" target="s7MB-vvQS7g_MF5XI4Nz-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="s7MB-vvQS7g_MF5XI4Nz-9" target="s7MB-vvQS7g_MF5XI4Nz-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-9" value="MDE" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="30" y="420" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-10" value="groupe 1.1&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;TT1A1" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="276" y="90" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-12" value="groupe 1.2&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;TT1A2" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="276" y="160" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-15" value="groupe 2.1&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;TT1B1" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="276" y="240" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-16" value="groupe 2.2&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;TT1B2" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="276" y="310" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-17" value="groupe 3.2&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;TT1C2" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="276" y="450" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-18" value="groupe 3.1&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;TT1C1" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="276" y="380" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-19" value="groupe 4.2&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;TT1D2" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="276" y="590" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-20" value="groupe 4.1&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;TT1D1" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="276" y="520" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-35" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="s7MB-vvQS7g_MF5XI4Nz-37" target="s7MB-vvQS7g_MF5XI4Nz-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="120" as="sourcePoint" />
+            <mxPoint x="450" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-36" value="" style="shape=message;html=1;outlineConnect=0;" parent="s7MB-vvQS7g_MF5XI4Nz-35" vertex="1">
+          <mxGeometry width="20" height="14" relative="1" as="geometry">
+            <mxPoint x="-10" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-37" value="&lt;a href=&quot;mailto:tt1a1_auto@etu.iut-tlse3.fr&quot; style=&quot;box-sizing: inherit; font-family: Raleway, sans-serif; font-size: 1.1em; background-color: rgb(255, 255, 255); line-height: inherit; color: rgb(0, 90, 178); text-decoration-line: none; cursor: pointer; margin: 0px; padding: 0px; border: 0px; text-size-adjust: 100%; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; transition: background-color 300ms ease-out 0s; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); outline: 0px; text-align: left;&quot;&gt;tt1a1_auto@etu.iut-tlse3.fr&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="540" y="100" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-38" value="&lt;a href=&quot;mailto:tt1a2_auto@etu.iut-tlse3.fr&quot; style=&quot;box-sizing: inherit; font-family: Raleway, sans-serif; font-size: 1.1em; background-color: rgb(255, 255, 255); line-height: inherit; color: rgb(0, 90, 178); text-decoration-line: none; cursor: pointer; margin: 0px; padding: 0px; border: 0px; text-size-adjust: 100%; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-weight: 400; font-stretch: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; transition: background-color 300ms ease-out 0s; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); outline: 0px; text-align: left;&quot;&gt;tt1a2_auto@etu.iut-tlse3.fr&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="540" y="170" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-39" value="&lt;a href=&quot;mailto:tt1b1_auto@etu.iut-tlse3.fr&quot; style=&quot;box-sizing: inherit; font-family: Raleway, sans-serif; font-size: 1.1em; background-color: rgb(255, 255, 255); line-height: inherit; color: rgb(0, 90, 178); text-decoration-line: none; cursor: pointer; margin: 0px; padding: 0px; border: 0px; text-size-adjust: 100%; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-weight: 400; font-stretch: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; transition: background-color 300ms ease-out 0s; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); outline: 0px; text-align: left;&quot;&gt;tt1b1_auto@etu.iut-tlse3.fr&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="540" y="250" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-40" value="&lt;a href=&quot;mailto:tt1b2_auto@etu.iut-tlse3.fr&quot; style=&quot;box-sizing: inherit; font-family: Raleway, sans-serif; font-size: 1.1em; background-color: rgb(255, 255, 255); line-height: inherit; color: rgb(0, 90, 178); text-decoration-line: none; cursor: pointer; margin: 0px; padding: 0px; border: 0px; text-size-adjust: 100%; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-weight: 400; font-stretch: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; transition: background-color 300ms ease-out 0s; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); outline: 0px; text-align: left;&quot;&gt;tt1b2_auto@etu.iut-tlse3.fr&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="540" y="320" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-41" value="&lt;a href=&quot;mailto:tt1c1_auto@etu.iut-tlse3.fr&quot; style=&quot;box-sizing: inherit; font-family: Raleway, sans-serif; font-size: 1.1em; background-color: rgb(255, 255, 255); line-height: inherit; color: rgb(0, 90, 178); text-decoration-line: none; cursor: pointer; margin: 0px; padding: 0px; border: 0px; text-size-adjust: 100%; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-weight: 400; font-stretch: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; transition: background-color 300ms ease-out 0s; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); outline: 0px; text-align: left;&quot;&gt;tt1c1_auto@etu.iut-tlse3.fr&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="540" y="390" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-42" value="&lt;a href=&quot;mailto:tt1c2_auto@etu.iut-tlse3.fr&quot; style=&quot;box-sizing: inherit; font-family: Raleway, sans-serif; font-size: 1.1em; background-color: rgb(255, 255, 255); line-height: inherit; color: rgb(0, 90, 178); text-decoration-line: none; cursor: pointer; margin: 0px; padding: 0px; border: 0px; text-size-adjust: 100%; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-weight: 400; font-stretch: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; transition: background-color 300ms ease-out 0s; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); outline: 0px; text-align: left;&quot;&gt;tt1c2_auto@etu.iut-tlse3.fr&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="540" y="460" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-43" value="&lt;a href=&quot;mailto:tt1d1_auto@etu.iut-tlse3.fr&quot; style=&quot;box-sizing: inherit; font-family: Raleway, sans-serif; font-size: 1.1em; background-color: rgb(255, 255, 255); line-height: inherit; color: rgb(0, 90, 178); text-decoration-line: none; cursor: pointer; margin: 0px; padding: 0px; border: 0px; text-size-adjust: 100%; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-weight: 400; font-stretch: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; transition: background-color 300ms ease-out 0s; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); outline: 0px; text-align: left;&quot;&gt;tt1d1_auto@etu.iut-tlse3.fr&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="540" y="530" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-44" value="&lt;a href=&quot;mailto:tt1d2_auto@etu.iut-tlse3.fr&quot; style=&quot;box-sizing: inherit; font-family: Raleway, sans-serif; font-size: 1.1em; background-color: rgb(255, 255, 255); line-height: inherit; color: rgb(0, 90, 178); text-decoration-line: none; cursor: pointer; margin: 0px; padding: 0px; border: 0px; text-size-adjust: 100%; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-weight: 400; font-stretch: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; transition: background-color 300ms ease-out 0s; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); outline: 0px; text-align: left;&quot;&gt;tt1d2_auto@etu.iut-tlse3.fr&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="540" y="600" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-49" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="s7MB-vvQS7g_MF5XI4Nz-40" target="s7MB-vvQS7g_MF5XI4Nz-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="130" as="sourcePoint" />
+            <mxPoint x="290" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-50" value="" style="shape=message;html=1;outlineConnect=0;" parent="s7MB-vvQS7g_MF5XI4Nz-49" vertex="1">
+          <mxGeometry width="20" height="14" relative="1" as="geometry">
+            <mxPoint x="-10" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-51" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="s7MB-vvQS7g_MF5XI4Nz-38" target="s7MB-vvQS7g_MF5XI4Nz-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="140" as="sourcePoint" />
+            <mxPoint x="300" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-52" value="" style="shape=message;html=1;outlineConnect=0;" parent="s7MB-vvQS7g_MF5XI4Nz-51" vertex="1">
+          <mxGeometry width="20" height="14" relative="1" as="geometry">
+            <mxPoint x="-10" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-53" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="s7MB-vvQS7g_MF5XI4Nz-39" target="s7MB-vvQS7g_MF5XI4Nz-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="210" as="sourcePoint" />
+            <mxPoint x="300" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-54" value="" style="shape=message;html=1;outlineConnect=0;" parent="s7MB-vvQS7g_MF5XI4Nz-53" vertex="1">
+          <mxGeometry width="20" height="14" relative="1" as="geometry">
+            <mxPoint x="-10" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-55" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="s7MB-vvQS7g_MF5XI4Nz-41" target="s7MB-vvQS7g_MF5XI4Nz-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="350" as="sourcePoint" />
+            <mxPoint x="290" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-56" value="" style="shape=message;html=1;outlineConnect=0;" parent="s7MB-vvQS7g_MF5XI4Nz-55" vertex="1">
+          <mxGeometry width="20" height="14" relative="1" as="geometry">
+            <mxPoint x="-10" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-57" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="s7MB-vvQS7g_MF5XI4Nz-42" target="s7MB-vvQS7g_MF5XI4Nz-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="420" as="sourcePoint" />
+            <mxPoint x="290" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-58" value="" style="shape=message;html=1;outlineConnect=0;" parent="s7MB-vvQS7g_MF5XI4Nz-57" vertex="1">
+          <mxGeometry width="20" height="14" relative="1" as="geometry">
+            <mxPoint x="-10" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-59" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="s7MB-vvQS7g_MF5XI4Nz-43" target="s7MB-vvQS7g_MF5XI4Nz-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="490" as="sourcePoint" />
+            <mxPoint x="290" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-60" value="" style="shape=message;html=1;outlineConnect=0;" parent="s7MB-vvQS7g_MF5XI4Nz-59" vertex="1">
+          <mxGeometry width="20" height="14" relative="1" as="geometry">
+            <mxPoint x="-10" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-61" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="s7MB-vvQS7g_MF5XI4Nz-44" target="s7MB-vvQS7g_MF5XI4Nz-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="560" as="sourcePoint" />
+            <mxPoint x="290" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-62" value="" style="shape=message;html=1;outlineConnect=0;" parent="s7MB-vvQS7g_MF5XI4Nz-61" vertex="1">
+          <mxGeometry width="20" height="14" relative="1" as="geometry">
+            <mxPoint x="-10" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-72" value="&lt;h1 style=&quot;box-sizing: inherit; font-size: 15px; margin: 0px 0px 0.6em; padding: 10px 1rem 0px; text-rendering: optimizelegibility; line-height: inherit; border: 0px; text-size-adjust: 100%; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;font-weight: normal; font-size: 15px;&quot;&gt;tc.but-2a-drc_auto@etu.iut-tlse3.fr&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=15;fontColor=#055ab2;labelBorderColor=none;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry y="200" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-74" value="&lt;h1 style=&quot;box-sizing: inherit; font-family: Raleway, sans-serif; font-size: 15px; margin: 0px 0px 0.6em; padding: 10px 1rem 0px; font-weight: 100; text-rendering: optimizelegibility; line-height: inherit; border: 0px; text-size-adjust: 100%; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; text-align: start;&quot;&gt;tc.but-2a-mde_auto@etu.iut-tlse3.fr&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#055AB2;" parent="1" vertex="1">
+          <mxGeometry y="490" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-75" value="&lt;h1 style=&quot;box-sizing: inherit; font-family: Raleway, sans-serif; font-size: 15px; margin: 0px 0px 0.6em; padding: 10px 1rem 0px; font-weight: 100; color: rgb(0, 75, 148); text-rendering: optimizelegibility; line-height: inherit; border: 0px; text-size-adjust: 100%; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; text-align: start;&quot;&gt;tc.but-2a-mpv_auto@etu.iut-tlse3.fr&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry y="630" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mfzl7yPazm54SCrmdIJB-1" value="&lt;h1 style=&quot;box-sizing: inherit; font-size: 15px; margin: 0px 0px 0.6em; padding: 10px 1rem 0px; text-rendering: optimizelegibility; line-height: inherit; border: 0px; text-size-adjust: 100%; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;font-weight: normal; font-size: 15px;&quot;&gt;tc.but-2a-drc-alt_auto@etu.iut-tlse3.fr&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=15;fontColor=#055ab2;labelBorderColor=none;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry y="350" width="290" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
