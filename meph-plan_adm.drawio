@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="pPMbkzpgSLtbPCeR25Ku">
-    <mxGraphModel dx="1337" dy="1134" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1356" dy="945" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,7 +38,7 @@
           <mxGeometry x="179" y="32" width="801" height="10" as="geometry" />
         </mxCell>
         <mxCell id="_IVkNDHX0kQ2XHPlicY4-14" value="" style="verticalLabelPosition=middle;html=1;verticalAlign=middle;align=center;shape=mxgraph.floorplan.room;fillStyle=auto;gradientColor=none;fillColor=default;strokeColor=default;shadow=0;labelPosition=center;" parent="1" vertex="1">
-          <mxGeometry x="90" y="508" width="202" height="287" as="geometry" />
+          <mxGeometry x="80" y="508" width="212" height="287" as="geometry" />
         </mxCell>
         <mxCell id="_IVkNDHX0kQ2XHPlicY4-17" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="108.82" y="518" width="42.35" height="45" as="geometry" />
@@ -54,6 +54,12 @@
         </mxCell>
         <mxCell id="_IVkNDHX0kQ2XHPlicY4-21" value="Secrétariat" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="196.99999999999997" y="638.5" width="76" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="-AyQobPHOPctwBnEzQVu-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.room;" vertex="1" parent="1">
+          <mxGeometry x="80" y="32" width="1000" height="269" as="geometry" />
+        </mxCell>
+        <mxCell id="-AyQobPHOPctwBnEzQVu-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;direction=south;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="282" y="52" width="10" height="239" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
