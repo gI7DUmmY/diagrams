@@ -71,13 +71,13 @@
           <mxGeometry x="394" y="200" width="51" height="26" as="geometry" />
         </mxCell>
         <mxCell id="-AyQobPHOPctwBnEzQVu-13" value="Bureau 04&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;MP74&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="287" y="129" width="83" height="62" as="geometry" />
+          <mxGeometry x="288" y="129" width="83" height="62" as="geometry" />
         </mxCell>
         <mxCell id="-AyQobPHOPctwBnEzQVu-14" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;direction=south;fontFamily=Helvetica;fontSize=12;wallThickness=5;" vertex="1" parent="1">
           <mxGeometry x="539" y="47" width="10" height="259" as="geometry" />
         </mxCell>
         <mxCell id="-AyQobPHOPctwBnEzQVu-15" value="Bureau 06&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;MP72&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="464" y="129" width="83" height="62" as="geometry" />
+          <mxGeometry x="461" y="129" width="83" height="62" as="geometry" />
         </mxCell>
         <mxCell id="-AyQobPHOPctwBnEzQVu-17" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorDouble;aspect=fixed;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="328.41" y="790" width="54.59" height="29" as="geometry" />
@@ -149,10 +149,10 @@
           <mxGeometry x="834" y="580" width="74" height="62" as="geometry" />
         </mxCell>
         <mxCell id="-AyQobPHOPctwBnEzQVu-43" value="Bureau 07&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;MP64&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="982" y="129" width="83" height="62" as="geometry" />
+          <mxGeometry x="980" y="129" width="83" height="62" as="geometry" />
         </mxCell>
         <mxCell id="-AyQobPHOPctwBnEzQVu-44" value="Bureau 08&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;MP63&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="982" y="580" width="83" height="62" as="geometry" />
+          <mxGeometry x="980" y="580" width="83" height="62" as="geometry" />
         </mxCell>
         <mxCell id="-AyQobPHOPctwBnEzQVu-45" value="MEPH - BATIMENT CENTRAL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Helvetica;fontSize=30;fillColor=#eeeeee;strokeColor=#36393d;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="356" y="366" width="429" height="48" as="geometry" />
