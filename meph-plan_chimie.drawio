@@ -41,13 +41,13 @@
           <mxGeometry x="737" y="42" width="10" height="575" as="geometry" />
         </mxCell>
         <mxCell id="-AyQobPHOPctwBnEzQVu-9" value="Repro" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="349" y="434" width="51" height="26" as="geometry" />
+          <mxGeometry x="128" y="482" width="51" height="26" as="geometry" />
         </mxCell>
         <mxCell id="-AyQobPHOPctwBnEzQVu-22" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="192" y="785" width="788" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="-AyQobPHOPctwBnEzQVu-44" value="Bureau 08&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;MP63&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="266" y="298.5" width="83" height="62" as="geometry" />
+        <mxCell id="-AyQobPHOPctwBnEzQVu-44" value="TP4&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Salle A&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="234" y="298" width="62" height="62" as="geometry" />
         </mxCell>
         <mxCell id="-AyQobPHOPctwBnEzQVu-45" value="MEPH - BATIMENT CHIMIE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Helvetica;fontSize=30;fillColor=#eeeeee;strokeColor=#36393d;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="353" y="880" width="394" height="48" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="980.5" y="189" width="45" height="46" as="geometry" />
         </mxCell>
         <mxCell id="apwUW1H52_Lenmefa1Gc-7" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fontFamily=Helvetica;fontSize=12;fillColor=default;wallThickness=5;" vertex="1" parent="1">
-          <mxGeometry x="745" y="258" width="191" height="1" as="geometry" />
+          <mxGeometry x="745" y="258" width="190" height="1" as="geometry" />
         </mxCell>
         <mxCell id="apwUW1H52_Lenmefa1Gc-8" value="&lt;div&gt;TP2&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Info&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Chimie&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="796" y="119" width="89" height="62" as="geometry" />
@@ -75,6 +75,15 @@
         </mxCell>
         <mxCell id="apwUW1H52_Lenmefa1Gc-11" value="Local&lt;div&gt;Technique&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="647" y="314" width="82" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="apwUW1H52_Lenmefa1Gc-12" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;direction=south;fontFamily=Helvetica;fontSize=12;wallThickness=5;" vertex="1" parent="1">
+          <mxGeometry x="400" y="42" width="10" height="575" as="geometry" />
+        </mxCell>
+        <mxCell id="apwUW1H52_Lenmefa1Gc-13" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fontFamily=Helvetica;fontSize=12;fillColor=default;wallThickness=5;" vertex="1" parent="1">
+          <mxGeometry x="90" y="694" width="845" height="1" as="geometry" />
+        </mxCell>
+        <mxCell id="apwUW1H52_Lenmefa1Gc-14" value="TP3&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Salle B&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="481.5" y="298.5" width="62" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
