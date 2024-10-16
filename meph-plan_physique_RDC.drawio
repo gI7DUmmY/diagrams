@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QVF2bsJ_1iVcUbZhZ82J-13" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;direction=south;fontFamily=Helvetica;fontSize=12;wallThickness=5;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="130.57" y="412.19" width="10" height="91.63" as="geometry" />
+        </mxCell>
         <mxCell id="QVF2bsJ_1iVcUbZhZ82J-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1026" y="461" width="26.35" height="28" as="geometry" />
         </mxCell>
@@ -87,6 +90,39 @@
         </mxCell>
         <mxCell id="QVF2bsJ_1iVcUbZhZ82J-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;direction=south;fontFamily=Helvetica;fontSize=12;wallThickness=5;" vertex="1" parent="1">
           <mxGeometry x="911" y="461" width="10" height="324" as="geometry" />
+        </mxCell>
+        <mxCell id="QVF2bsJ_1iVcUbZhZ82J-9" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;direction=south;fontFamily=Helvetica;fontSize=12;wallThickness=5;" vertex="1" parent="1">
+          <mxGeometry x="419.5" y="461" width="10" height="324" as="geometry" />
+        </mxCell>
+        <mxCell id="QVF2bsJ_1iVcUbZhZ82J-10" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;direction=south;fontFamily=Helvetica;fontSize=12;wallThickness=5;" vertex="1" parent="1">
+          <mxGeometry x="757" y="461" width="10" height="324" as="geometry" />
+        </mxCell>
+        <mxCell id="QVF2bsJ_1iVcUbZhZ82J-11" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Bureau 01&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;MP01&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="323" y="559" width="83" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="QVF2bsJ_1iVcUbZhZ82J-12" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;direction=south;fontFamily=Helvetica;fontSize=12;wallThickness=5;" vertex="1" parent="1">
+          <mxGeometry x="174" y="461" width="10" height="324" as="geometry" />
+        </mxCell>
+        <mxCell id="QVF2bsJ_1iVcUbZhZ82J-14" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Atelier&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="107.07" y="576" width="58" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="QVF2bsJ_1iVcUbZhZ82J-15" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;TD-06&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;MP2&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="444" y="559.5" width="57" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="QVF2bsJ_1iVcUbZhZ82J-16" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Salle Projets&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;MP3&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="638" y="559.5" width="97" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="QVF2bsJ_1iVcUbZhZ82J-17" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;TP Thermo&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;MP4&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="795" y="559.5" width="88" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="QVF2bsJ_1iVcUbZhZ82J-18" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.stairs;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="182" y="47" width="149" height="264" as="geometry" />
+        </mxCell>
+        <mxCell id="QVF2bsJ_1iVcUbZhZ82J-19" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;WC&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="115.57" y="132" width="41" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="QVF2bsJ_1iVcUbZhZ82J-20" value="" style="shape=mxgraph.signs.people.unisex;html=1;pointerEvents=1;fillColor=#f5f5f5;strokeColor=#666666;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="120.19" y="161.58" width="31.76" height="29.84" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
