@@ -73,8 +73,8 @@
         <mxCell id="-AyQobPHOPctwBnEzQVu-37" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;direction=south;fontFamily=Helvetica;fontSize=12;wallThickness=5;" parent="1" vertex="1">
           <mxGeometry x="300" y="449" width="10" height="276" as="geometry" />
         </mxCell>
-        <mxCell id="-AyQobPHOPctwBnEzQVu-42" value="TD-05&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;MP60/61&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="445" y="565" width="74" height="62" as="geometry" />
+        <mxCell id="-AyQobPHOPctwBnEzQVu-42" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Atelier&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;MP07&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="967" y="132" width="58" height="62" as="geometry" />
         </mxCell>
         <mxCell id="-AyQobPHOPctwBnEzQVu-45" value="MEPH - BATIMENT PHYSIQUE&lt;div&gt;RDC&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Helvetica;fontSize=30;fillColor=#eeeeee;strokeColor=#36393d;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="349" y="348" width="444" height="84" as="geometry" />
