@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="pPMbkzpgSLtbPCeR25Ku">
-    <mxGraphModel dx="1627" dy="1134" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1378" dy="1134" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -121,11 +121,11 @@
         <mxCell id="apwUW1H52_Lenmefa1Gc-23" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fontFamily=Helvetica;fontSize=12;fillColor=default;wallThickness=5;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="410" y="740.5" width="88" height="1" as="geometry" />
         </mxCell>
-        <mxCell id="apwUW1H52_Lenmefa1Gc-24" value="Bureau" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="332" y="727" width="63" height="29" as="geometry" />
+        <mxCell id="apwUW1H52_Lenmefa1Gc-24" value="Bureau&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;CHBE&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="332" y="711" width="63" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="apwUW1H52_Lenmefa1Gc-25" value="Bureau" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="473" y="728" width="63" height="29" as="geometry" />
+        <mxCell id="apwUW1H52_Lenmefa1Gc-25" value="Bureau&lt;div&gt;&lt;br&gt;&lt;div&gt;CHBL&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=14;fontColor=default;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="473" y="712" width="63" height="62" as="geometry" />
         </mxCell>
         <mxCell id="apwUW1H52_Lenmefa1Gc-26" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;fontFamily=Helvetica;fontSize=12;fillColor=default;wallThickness=5;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="511" y="740.5" width="88" height="1" as="geometry" />
