@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4" pages="5">
   <diagram name="RDC" id="pPMbkzpgSLtbPCeR25Ku">
     <mxGraphModel dx="1378" dy="1134" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -252,7 +252,7 @@
           <mxGeometry x="80" y="190" width="620" height="930" as="geometry" />
         </mxCell>
         <mxCell id="J5NKjMaJiQjN-nnqemLr-2" value="" style="shape=mxgraph.rack.cisco.cisco_nexus_3064_switch;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="95" y="410" width="590" height="70" as="geometry" />
+          <mxGeometry x="95" y="400" width="590" height="70" as="geometry" />
         </mxCell>
         <mxCell id="J5NKjMaJiQjN-nnqemLr-3" value="" style="shape=mxgraph.rack.cisco.cisco_nexus_3064_switch;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="95" y="510" width="590" height="70" as="geometry" />
@@ -260,11 +260,17 @@
         <mxCell id="J5NKjMaJiQjN-nnqemLr-4" value="Baie Réseau bat. physique (1er)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Helvetica;fontSize=30;fillColor=#eeeeee;strokeColor=#36393d;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="39" width="450" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="6wE_zC_UIx7XsbAsA6nK-1" value="" style="shape=mxgraph.rack.cisco.cisco_nexus_3064_switch;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="95" y="620" width="590" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6wE_zC_UIx7XsbAsA6nK-2" value="" style="shape=mxgraph.rack.cisco.cisco_nexus_3064_switch;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="95" y="730" width="590" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="2EME" id="QVrXLG03wh3Z3alblfzx">
-    <mxGraphModel dx="1198" dy="1134" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1740" dy="1148" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="df3DP3QnAvFe5xYJdQJ--0" />
         <mxCell id="df3DP3QnAvFe5xYJdQJ--1" parent="df3DP3QnAvFe5xYJdQJ--0" />
@@ -366,6 +372,26 @@
         </mxCell>
         <mxCell id="XHVHsLA7qCFlbryOQ5Yu-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wall;direction=south;fontFamily=Helvetica;fontSize=12;wallThickness=5;" parent="df3DP3QnAvFe5xYJdQJ--1" vertex="1">
           <mxGeometry x="432" y="461" width="10" height="324" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Baie 2eme etage" id="JgcDOGCr-3rlGOvGT4J1">
+    <mxGraphModel dx="1740" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="SDHbwIokEIG7jDcGp7da-0" />
+        <mxCell id="SDHbwIokEIG7jDcGp7da-1" parent="SDHbwIokEIG7jDcGp7da-0" />
+        <mxCell id="SDHbwIokEIG7jDcGp7da-2" value="" style="verticalLabelPosition=bottom;dashed=0;shadow=0;html=1;align=center;verticalAlign=top;shape=mxgraph.cabinets.cabinet;hasStand=1" vertex="1" parent="SDHbwIokEIG7jDcGp7da-1">
+          <mxGeometry x="80" y="190" width="620" height="930" as="geometry" />
+        </mxCell>
+        <mxCell id="SDHbwIokEIG7jDcGp7da-3" value="" style="shape=mxgraph.rack.cisco.cisco_nexus_3064_switch;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="SDHbwIokEIG7jDcGp7da-1">
+          <mxGeometry x="95" y="410" width="590" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SDHbwIokEIG7jDcGp7da-4" value="" style="shape=mxgraph.rack.cisco.cisco_nexus_3064_switch;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" vertex="1" parent="SDHbwIokEIG7jDcGp7da-1">
+          <mxGeometry x="95" y="510" width="590" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SDHbwIokEIG7jDcGp7da-5" value="Baie Réseau bat. physique (1er)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Helvetica;fontSize=30;fillColor=#eeeeee;strokeColor=#36393d;dashed=1;" vertex="1" parent="SDHbwIokEIG7jDcGp7da-1">
+          <mxGeometry x="165" y="39" width="450" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
