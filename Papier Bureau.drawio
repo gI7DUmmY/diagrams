@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.15">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1">
   <diagram name="Page-1" id="-abTtKmIUcCCkdnvZCq9">
-    <mxGraphModel dx="1380" dy="1211" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="777" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="OwIQeiL42ccPH_tx5tmu-2" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css2?family=Barlow:wght@600&amp;amp;display=swap&quot; face=&quot;Barlow semi-bold&quot;&gt;&lt;b&gt;Bureau TC 002&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Barlow semi-bold;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DBarlow%3Awght%40600;fontSize=82;fontStyle=0;labelPosition=center;verticalLabelPosition=middle;fontColor=#4B4B4B;" parent="1" vertex="1">
           <mxGeometry x="306" y="83" width="558" height="108" as="geometry" />
         </mxCell>
-        <mxCell id="OwIQeiL42ccPH_tx5tmu-8" value="&lt;b style=&quot;color: rgb(75, 75, 75); font-family: &amp;quot;Barlow Light&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font&gt;Informaticien&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=75;" parent="1" vertex="1">
+        <mxCell id="OwIQeiL42ccPH_tx5tmu-8" value="&lt;b style=&quot;color: rgb(75, 75, 75); font-family: &amp;quot;Barlow Light&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font&gt;Adjointe de Direction&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=75;" parent="1" vertex="1">
           <mxGeometry x="369" y="486" width="432" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="OwIQeiL42ccPH_tx5tmu-9" value="&lt;span style=&quot;color: rgb(75, 75, 75); font-family: &amp;quot;Barlow Light&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font&gt;Cédric ROLLO&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;" parent="1" vertex="1">
+        <mxCell id="OwIQeiL42ccPH_tx5tmu-9" value="&lt;span style=&quot;color: rgb(75, 75, 75); font-family: &amp;quot;Barlow Light&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font&gt;Sarah VIALARD&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=80;" parent="1" vertex="1">
           <mxGeometry x="351" y="279" width="468" height="108" as="geometry" />
         </mxCell>
         <mxCell id="wIUGpzMUXxHoesQHupM2-1" value="" style="group" parent="1" vertex="1" connectable="0">
