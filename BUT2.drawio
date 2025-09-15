@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.1">
   <diagram name="Page-1" id="LkRhmX5udIgWVVvKP2tT">
-    <mxGraphModel dx="996" dy="1121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="781" dy="1121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -135,11 +135,17 @@
         <mxCell id="p2Pn64rqvdL8HzTHEJ3j-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.01;entryY=0.611;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="p2Pn64rqvdL8HzTHEJ3j-38" target="p2Pn64rqvdL8HzTHEJ3j-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n1PMXfeCib8b2c_LYq5v-2" value="MPV" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="SN-xuV9tuCbqUee6we08-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n1PMXfeCib8b2c_LYq5v-2" target="SN-xuV9tuCbqUee6we08-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n1PMXfeCib8b2c_LYq5v-2" value="MPV" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="50" y="980" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="n1PMXfeCib8b2c_LYq5v-3" value="&lt;a href=&quot;mailto:tc.but-2a-mpv_auto@etu.iut-tlse3.fr&quot;&gt;tc.but-2a-mpv_auto@etu.iut-tlse3.fr&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#055AB2;" vertex="1" parent="1">
+        <mxCell id="n1PMXfeCib8b2c_LYq5v-3" value="&lt;a href=&quot;mailto:tc.but-2a-mpv_auto@etu.iut-tlse3.fr&quot;&gt;tc.but-2a-mpv_auto@etu.iut-tlse3.fr&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#055AB2;" parent="1" vertex="1">
           <mxGeometry y="1050" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SN-xuV9tuCbqUee6we08-1" value="groupe D2&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;TT3D2&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;a href=&quot;mailto:tt3d2_auto@etu.iut-tlse3.fr&quot; style=&quot;box-sizing: inherit; font-family: Raleway, sans-serif; font-size: 1.1em; background-color: rgb(255, 255, 255); line-height: inherit; color: rgb(0, 144, 233); text-decoration-line: none; cursor: pointer; margin: 0px; padding: 0px; border: 0px; text-size-adjust: 100%; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; transition: background-color 300ms ease-out 0s; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); text-align: left;&quot;&gt;tt3d2_auto@etu.iut-tlse3.fr&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=hatch;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="630" y="990" width="170" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
