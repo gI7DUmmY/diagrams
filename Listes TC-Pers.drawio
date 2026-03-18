@@ -1,0 +1,42 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.6.3">
+  <diagram name="Page-1" id="LkRhmX5udIgWVVvKP2tT">
+    <mxGraphModel dx="1426" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" value="Personnel" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="p2Pn64rqvdL8HzTHEJ3j-6" edge="1" parent="1" source="s7MB-vvQS7g_MF5XI4Nz-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="p2Pn64rqvdL8HzTHEJ3j-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p2Pn64rqvdL8HzTHEJ3j-19" edge="1" parent="1" source="s7MB-vvQS7g_MF5XI4Nz-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="p2Pn64rqvdL8HzTHEJ3j-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" value="Enseignants" vertex="1">
+          <mxGeometry height="70" width="110" x="70" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="1UUAj8oOFCwnbtqiEdcz-3" edge="1" parent="1" source="s7MB-vvQS7g_MF5XI4Nz-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="1UUAj8oOFCwnbtqiEdcz-1" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="265" y="355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" value="Secrétariat" vertex="1">
+          <mxGeometry height="70" width="110" x="70" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-72" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#055AB2;" value="&lt;a href=&quot;mailto:tc.enseignants@iut-tlse3.fr&quot;&gt;tc.enseignants@iut-tlse3.fr&lt;/a&gt;" vertex="1">
+          <mxGeometry height="30" width="180" x="35" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="p2Pn64rqvdL8HzTHEJ3j-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=hatch;fillColor=none;" value="&lt;div&gt;Titulaires&lt;/div&gt;&lt;a href=&quot;mailto:tc.enseignants-en-poste@iut-tlse3.fr&quot;&gt;tc.enseignants-en-poste@iut-tlse3.fr&lt;/a&gt;" vertex="1">
+          <mxGeometry height="50" width="220" x="380" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="p2Pn64rqvdL8HzTHEJ3j-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=hatch;fillColor=none;" value="&lt;div&gt;Vacataires&lt;/div&gt;&lt;a href=&quot;mailto:tc.enseignants-vacataires@iut-tlse3.fr&quot;&gt;tc.enseignants-vacataires@iut-tlse3.fr&lt;/a&gt;" vertex="1">
+          <mxGeometry height="50" width="220" x="380" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="1UUAj8oOFCwnbtqiEdcz-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=hatch;fillColor=none;" value="&lt;div&gt;Boîte partagée&lt;/div&gt;&lt;a href=&quot;mailto:tc.secretariat@iut-tlse3.fr&quot;&gt;tc.secretariat@iut-tlse3.fr&lt;/a&gt;" vertex="1">
+          <mxGeometry height="50" width="220" x="380" y="330" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
