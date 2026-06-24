@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0" version="29.6.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0">
   <diagram name="Page-1" id="iRoQFW6D9CzvpXQzve8l">
-    <mxGraphModel dx="1501" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1734" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,6 +64,15 @@
             <mxPoint x="496" y="688" as="sourcePoint" />
             <mxPoint x="675" y="689" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="816E9Z19sICrN_f-OBOz-1" parent="1" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=22.25;dy=18;boundedLbl=1;align=center;fontSize=18;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;" value="&lt;font face=&quot;Tahoma&quot;&gt;3 tables 140x80&lt;/font&gt;&lt;br&gt;&lt;font face=&quot;Tahoma&quot;&gt;1 table 80x80&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="79" width="150" x="910" y="271" as="geometry" />
+        </mxCell>
+        <mxCell id="816E9Z19sICrN_f-OBOz-2" parent="1" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=22.25;dy=18;boundedLbl=1;align=center;fontSize=18;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;" value="&lt;font face=&quot;Tahoma&quot;&gt;8 tables 140x80&lt;/font&gt;" vertex="1">
+          <mxGeometry height="79" width="150" x="610" y="271" as="geometry" />
+        </mxCell>
+        <mxCell id="816E9Z19sICrN_f-OBOz-3" parent="1" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=22.25;dy=18;boundedLbl=1;align=center;fontSize=18;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;rotation=0;direction=east;" value="&lt;font face=&quot;Tahoma&quot;&gt;4&amp;nbsp;tables 140x80&lt;/font&gt;" vertex="1">
+          <mxGeometry height="79" width="150" x="270" y="271" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
