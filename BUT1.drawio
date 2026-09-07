@@ -285,7 +285,7 @@
         </mxCell>
         <UserObject label="tc.1a@etu.iut-tlse3.fr" link="mailto:tc.1a@etu.iut-tlse3.fr" linkTarget="_blank" id="cHbRMudEv3f_hdLGd8fo-1">
           <mxCell parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=light-dark(#2d00ee, #6bb4ff);fontStyle=4;shadow=0;" vertex="1">
-            <mxGeometry height="30" width="145" x="341.5" y="70" as="geometry" />
+            <mxGeometry height="40" width="158.5" x="334" y="70" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
