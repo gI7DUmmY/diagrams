@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36">
   <diagram name="Page-1" id="LkRhmX5udIgWVVvKP2tT">
-    <mxGraphModel dx="2054" dy="1105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="976" dy="1113" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
         <mxCell id="p2Pn64rqvdL8HzTHEJ3j-42" edge="1" parent="1" source="s7MB-vvQS7g_MF5XI4Nz-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="p2Pn64rqvdL8HzTHEJ3j-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-72" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#055AB2;" value="&lt;a href=&quot;mailto:tc.but-2a-drc_auto@etu.iut-tlse3.fr&quot;&gt;tc.but-2a-drc_auto@etu.iut-tlse3.fr&lt;/a&gt;" vertex="1">
+        <mxCell id="s7MB-vvQS7g_MF5XI4Nz-72" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=light-dark(#2D00EE,#2D00EE);" value="&lt;a href=&quot;mailto:tc.but-2a-drc_auto@etu.iut-tlse3.fr&quot;&gt;tc.but-2a-drc_auto@etu.iut-tlse3.fr&lt;/a&gt;" vertex="1">
           <mxGeometry height="30" width="240" y="260" as="geometry" />
         </mxCell>
         <mxCell id="mfzl7yPazm54SCrmdIJB-1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#055AB2;" value="&lt;a href=&quot;mailto:tc.but-2a-drc-alt_auto@etu.iut-tlse3.fr&quot;&gt;tc.but-2a-drc-alt_auto@etu.iut-tlse3.fr&lt;/a&gt;" vertex="1">
@@ -163,6 +163,9 @@
         </mxCell>
         <mxCell id="s7MB-vvQS7g_MF5XI4Nz-74" parent="wPvLYOtAmxeIkCMXj3LP-6" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#055AB2;" value="&lt;a href=&quot;mailto:tc.but-2a-mde_auto@etu.iut-tlse3.fr&quot;&gt;tc.but-2a-mde_auto@etu.iut-tlse3.fr&lt;/a&gt;" vertex="1">
           <mxGeometry height="30" width="250" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0YtHYogEvvSxSq-Kfce1-1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=light-dark(#2d00ee, #6bb4ff);fontStyle=4" value="tc.2a@etu.iut-tlse3.fr" vertex="1">
+          <mxGeometry height="30" width="145" x="341.5" y="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
